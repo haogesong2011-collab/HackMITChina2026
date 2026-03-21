@@ -105,4 +105,4 @@ Radar (ESP32) → ESP-NOW → Glasses (ESP32) → User Alert
 ##  Team
 - Harry Song — Hardware
 - Leo Xie — 3D Modeling
-- Henry Liu — Software
+- Zihang Liu — Software
